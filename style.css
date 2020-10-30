@@ -13,4 +13,8 @@ body{
     width: 60%;
     height: 100vh;
 }
+.socialMedia{
+    float: left;
+    height: 60px;
+}
 
