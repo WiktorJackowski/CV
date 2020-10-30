@@ -3,18 +3,26 @@ margin: 0;
 padding: 0;
 }
 body{
-    background-color: orange;
+    background-image: url("https://fullhdpictures.com/wp-content/uploads/2016/12/Cyprus-Pictures.jpg");
 }
 .profile_img{
-    float: right;
+    float: left;
 }
 .infos{
-    float: bottom;
+    text-align: center;
     width: 60%;
     height: 100vh;
 }
-.socialMedia{
-    float: left;
-    height: 60px;
+.socialMedia img{
+    float: bottom;
+    max-width: 10%;
+    height: auto;
+    margin-left: 15px;
+}
+.expertise small{
+    text-align: center;
+}
+.expertise img{
+    height: 150px;
 }
 
