@@ -9,10 +9,12 @@ body{
 }
 .profile_img img{
     float: right;
+    right: 0;
     width: 35%;
     height: 100%;
     margin: 0;
     padding: 0;
+    position: fixed;
 }
 .infos{
     width: 60%;
